@@ -1,0 +1,57 @@
+body{
+	font-family:'Poppins', sans-serif;
+
+}
+#sec-home{
+	/*background-color: black;*/
+	background-image: url(../img/home-header-bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover; 
+	color: #FFFFFF;
+	text-align: left;
+	height: 400px;
+	padding: 150px 0px;
+}
+
+
+.boton{
+	font-size: 16px;
+	/*margin-right: 10px;*/
+	color: #000000;
+	text-align: center;
+	padding: 15px 20px;
+	text-decoration: none;
+
+}
+.boton-naranja{
+	background-color: coral;
+	margin: 30px;
+	
+}
+.boton-azul{
+	background-color:#FFFFFF;
+}
+
+#sec-home .h1{
+	margin-left: 20px;
+	
+}
+#sec-coaches{
+	text-align: center;
+	padding-top: 150px;
+}
+
+#sec-about{
+	
+	padding-top: 150px;
+}
+footer{
+	text-align: center;
+	background: #272525;
+	padding: 50px;
+	color: #FFFFFF;
+}
+#sec-gallery{
+	padding-top: 150px;
+}
